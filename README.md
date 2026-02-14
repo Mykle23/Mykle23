@@ -14,7 +14,7 @@ I love tinkering with technology—breaking things, fixing them, and building so
 | **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite) |
 | **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express,prisma) |
 | **Infrastructure** | ![](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions) |
-| **Databases** | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase) |
+| **Databases** | ![](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,supabase) |
 | **Cloud & Hosting** | ![](https://skillicons.dev/icons?i=azure,vercel,netlify) |
 | **Tools** | ![](https://skillicons.dev/icons?i=git,github,linux,vscode,figma) |
 

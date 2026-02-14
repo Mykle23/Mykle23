@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Mykle
 
-<!--
-**Mykle23/Mykle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love tinkering with technology—breaking things, fixing them, and building solutions to new challenges. Whether it's frontend, backend, or infrastructure, I enjoy the entire process of making things work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Work With
+
+<div align="center">
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![](https://skillicons.dev/icons?i=js,ts,py) |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite) |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express,prisma) |
+| **Infrastructure** | ![](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions) |
+| **Databases** | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase) |
+| **Cloud & Hosting** | ![](https://skillicons.dev/icons?i=azure,vercel,netlify) |
+| **Tools** | ![](https://skillicons.dev/icons?i=git,github,linux,vscode,figma) |
+
+</div>
+
+---
+
